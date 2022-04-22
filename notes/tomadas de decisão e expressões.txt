@@ -1,0 +1,48 @@
+-------------------------------
+        -- Glossário:
+// Perguntas, Tópicos etc.
+- Respostas
+=> Exemplos
+| Listas, dicas
+-------------------------------
+// Expressões Aritméticas
+
+- São expressões que utilizam operadores aritméticos e funções aritméticas envolvendo constantes e variáveis.
+
+=> Exemplo:
+50+50
+total+50
+-------------------------------
+// Expressões Literais
+
+- São expressões com constantes e/ou variáveis que tem como resultado valores literais. Iremos utilizar as expressões literais na atribuição de valor para uma variável ou constante.
+
+=> Exemplos:
+nome="José da Silva"
+nome<-"José da Silva"
+media=(nota1+nota2+nota3+nota4)/4
+-------------------------------
+// Operadores Aritméticos
+
+| + Adição
+| - Subtração
+| * Multiplicação
+| / Divisão
+| ^ Exponenciação
+| % Módulo/Resto da divisão
+-------------------------------
+// Operadores Relacionais
+
+- São expressões compostas por outras expressões ou variáveis numéricas com operadores relacionais. As expressões relacionais retornam valores lógicos (verdadeiro / falso).
+
+| > Maior que
+| >= Maior ou igual
+| < Menor que
+| <= Menor ou igual
+| == Igualdade
+| != Diferente de
+-------------------------------
+// Tomadas de decisão
+
+- Quando escrevemos programas, geralmente ocorre a necessidade de decidir o que fazer dependendo de alguma condição encontrada durante a execução.
+-------------------------------

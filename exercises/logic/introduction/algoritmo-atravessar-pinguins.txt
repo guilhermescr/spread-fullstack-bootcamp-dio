@@ -1,0 +1,26 @@
+Algoritmo Atravessar Pinguins
+https://rachacuca.com.br/jogos/pinguins-numa-fria/
+
+Inicio-Atravessar
+- Colocar filhote de cachecol vermelho no iceberg
+- Colocar pai de cachecol vermelho no iceberg
+- Atravessar
+- Colocar pai de cachecol vermelho no chão
+- Atravessar
+- Colocar filhote de cachecol verde no iceberg
+- Atravessar
+- Colocar filhote de cachecol vermelho no chão
+- Atravessar
+- Colocar pai de cachecol verde no iceberg
+- Atravessar
+- Colocar pai de cachecol verde no chão
+- Atravessar
+- Colocar filhote de cachecol azul no iceberg
+- Atravessar
+- Colocar filhote de cachecol verde no chão
+- Atravessar
+- Colocar pai de cachecol azul no iceberg
+- Atravessar
+- Colocar pai de cachecol azul no chão
+- Colocar filhote de cachecol azul no chão
+Fim-Atravessar

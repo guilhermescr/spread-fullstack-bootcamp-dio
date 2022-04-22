@@ -1,0 +1,60 @@
+-------------------------------
+        -- Glossário:
+// Perguntas, Tópicos etc.
+- Respostas
+=> Exemplos
+| Listas, dicas
+-------------------------------
+// O que é fluxograma?
+
+1- Fluxograma é uma ferramenta utilizada para representar graficamente o algoritmo, isto é, a sequência lógica e coerente do fluxo de dados.
+
+2- Um fluxograma é um tipo de diagrama e pode ser entendido como uma representação esquemática de um processo. Podemos entendê-lo, na prática, como a documentação dos passos necessários para a execução de um processo qualquer.
+
+// Diagrama de blocos
+
+- Utilizado para representar o método do fluxograma.
+
+| Dica de site para fazer um fluxograma: https://www.lucidchart.com/pages/pt/exemplos/fluxograma-online
+-------------------------------
+// O que são variáveis?
+
+1- Na programação, uma variável é um objeto (uma posição, frequentemente localizada na memória) capaz de reter e representar um valor ou expressão.
+
+2- Uma variável é um espaço na memória do computador destinado a um dado que é alterado durante a execução do algortimo.
+-------------------------------
+// Declaração de variáveis
+
+=> Pseudocódigo de exemplo:
+
+INÍCIO
+    DECLARA nota1: número
+    DECLARA nota2: número
+    DECLARA nota3: número
+    DECLARA nota4: número
+    DECLARA media: número
+    LEIA (nota1)
+    LEIA (nota2)
+    LEIA (nota3)
+    LEIA (nota4)
+    media = (nota1+nota2+nota3+nota4)/4
+    IMPRIMIR (media)
+FIM
+-------------------------------
+// Tipos de variáveis
+
+- As variáveis e as constantes podem ser classificadas basicamente de quatro tipos:
+| Numéricas; | Caracteres;
+| Alfanuméricas; ou | Lógicas;
+-------------------------------
+// O que é uma constante?
+
+- As constantes são valores imutáveis e não são alterados durante a vida útil do programa.
+
+=> Exemplo:
+
+INÍCIO
+DECLARA pi = 3,14
+DECLARA raio: número
+FIM
+-------------------------------

@@ -1,0 +1,30 @@
+-------------------------------
+        -- Glossário:
+// Perguntas, Tópicos etc.
+- Respostas
+=> Exemplos
+| Listas, dicas
+-------------------------------
+// Definição
+
+- Uma matriz é uma coleção de variáveis de mesmo tipo, acessíveis com um único nome e armazenados contiguamente na memória.
+
+=> Exemplo: Tabelas.
+
+- A individualização de cada variável de um vetor é feita através do uso de índices.
+
+- Os Vetores são matrizes de uma só dimensão.
+-------------------------------
+=> Exemplo:
+
+cadeia frutas[4];
+frutas[0]="Maçã"
+frutas[1]="Pera"
+frutas[2]="Uva"
+frutas[3]="Melão"
+escreva(frutas[2])
+
+cadeia cesta[][] = {{"Maçã","100"}, {"Pera","200"}, {"Melão","300"}}
+
+escreva ("Fruta: " + cesta[0][0] + " Quantidade: " + cesta[0][1])
+-------------------------------

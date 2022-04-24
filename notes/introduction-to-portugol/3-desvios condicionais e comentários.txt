@@ -1,0 +1,41 @@
+-------------------------------
+        -- Glossário:
+// Perguntas, Tópicos etc.
+- Respostas
+=> Exemplos
+| Listas, dicas
+-------------------------------
+// Estruturas de decisão e comentários no Portugol Studio
+-------------------------------
+// Utilização
+
+- É utilizada a palavra reservada se, a condição a ser testada entre parentêses e as instruções que devem ser executadas entre chaves caso o desvio seja verdadeiro.
+
+=> se (media>=7) {
+    escreva("Parabéns!! Você foi aprovado!!")
+}
+-------------------------------
+// se-senao
+
+- Agora vamos imaginar que se a condição for falsa um outro conjunto de comandos deve ser executado. Quando iremos encontrar esta situação?
+
+=> Exemplo:
+
+se (media>=7) {
+    escreva("Parabéns!! Você foi aprovado!!")
+}
+
+senao {
+    escreva("Infelizmente você foi reprovado)
+}
+-------------------------------
+// Para que servem as palavras reservadas?
+
+- São utilizadas para uma determinada função no código.
+
+=> escreva, leia...
+-------------------------------
+// Desvio condicional - caso
+
+- Este comando é similar aos comandos se e senão, e reduz a complexidade na escolha de diversas opções. Apesar de suas similaridades com o se, ele possui algumas diferenças. Neste comando não é possível o uso de operadores lógicos, ele apenas trabalha com valores definidos.
+-------------------------------

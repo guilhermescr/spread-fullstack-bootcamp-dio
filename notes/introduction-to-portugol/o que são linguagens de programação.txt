@@ -1,0 +1,48 @@
+-------------------------------
+        -- Glossário:
+// Perguntas, Tópicos etc.
+- Respostas
+=> Exemplos
+| Listas, dicas
+-------------------------------
+// O que são linguagens de programação?
+
+- "É uma linguagem escrita e formal que especifica um conjunto de instruções e regras usadas para gerar programas (software). Um software pode ser desenvolvido para rodar em um computador, dispositivo móvel ou em qualquer equipamento que permita sua execução".
+
+- "O que é óbvio para você, certamente não é óbvio para uma máquina. E se você quer que a máquina faça algo pra você, você precisa, "falar com ela".
+
+// A função das linguagens de programação é servir de um meio de comunicação entre computadores e humanos.
+-------------------------------
+// Tipos de linguagem
+
+// Alto nível:
+
+- Essas são aquelas cuja sintaxe se aproxima mais da nossa linguagem e se distanciam mais da linguagem de máquina.
+
+=> C, PHP, JavaScript, Python, C++
+-------------------------------
+// Baixo nível:
+
+- É aquela que se aproxima mais da linguagem de máquina. Essas são as que você precisa ter o conhecimento direto da arquitetura do computador para fazer alguma coisa.
+
+=> Assembly
+-------------------------------
+// Compiladas ou Interpretadas
+
+// Compiladas
+
+- É uma linguagem de programação em que o código fonte, é executado diretamente pelo sistema operacional ou pelo processador, após ser traduzido por meio de um processo chamado compilação.
+
+=> Delphy, C#, Visual Basic
+
+// Interpretadas
+
+- É uma linguagem de programação em que o código fonte é executado por um programa de computador chamado interpretador, que em seguida é executado pelo sistema operacional ou processador.
+
+=> PHP, Python, JavaScript
+-------------------------------
+// O que é Portugol
+
+- É uma pseudolinguagem que permite ao leitor desenvolver algoritmos estruturados em português de forma simples e intuitiva, independentemente de linguagem de programação.
+
+- É uma pseudolinguagem que permite ao programador pensar no problema em si e não no equipamento que irá executar o algoritmo.

@@ -1,0 +1,28 @@
+-------------------------------
+        -- Exercício Final
+
+// Crie um algoritmo do seu dia.
+
+1- Algoritmo Ir para a escola (geralmente faço nessa ordem mesmo.):
+
+Início-Rotina
+    | Acordar
+    | Levantar
+    | Escovar os dentes
+    | Preparar o café da manhã
+    | Separar a merenda
+    | Guardar a merenda na mochila
+    | Tomar banho
+    | Vestir a roupa
+    | Tomar café da manhã
+    | Escovar os dentes
+    | Pegar máscara
+    | Ir para o ponto de ônibus
+    | Pegar ônibus
+    | Descer no ponto da escola
+    | Olhar pros lados
+    | Se não estiver vindo nenhum veículo OU o veículo estiver longe, faça
+        | Atravesse a rua
+    | Entrar na escola
+Fim-Rotina
+-------------------------------

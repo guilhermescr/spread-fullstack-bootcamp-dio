@@ -1,3 +1,4 @@
+-------------------------------
 Algoritmo Atravessar Pinguins
 https://rachacuca.com.br/jogos/pinguins-numa-fria/
 
@@ -24,3 +25,4 @@ Inicio-Atravessar
 - Colocar pai de cachecol azul no chão
 - Colocar filhote de cachecol azul no chão
 Fim-Atravessar
+-------------------------------

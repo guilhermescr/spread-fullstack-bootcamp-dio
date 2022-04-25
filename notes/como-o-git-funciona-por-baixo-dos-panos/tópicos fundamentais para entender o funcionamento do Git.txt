@@ -1,0 +1,34 @@
+-------------------------------
+        -- Glossário:
+// Perguntas, Tópicos etc.
+- Respostas
+=> Exemplos
+| Listas, dicas
+-------------------------------
+// SHA1
+
+- A sigla SHA significa Secure Hash Algorithm (Algoritmo de Hash Seguro), é um conjunto de funções hash criptográficas projetadas pela NSA (Agência de Segurança Nacional dos EUA).
+
+- A saída da encriptação gera conjunto de characteres identificador de 40 dígitos.
+-------------------------------
+// Objetos Fundamentais
+
+| Blobs, Trees, Commits
+
+Commits > Trees > Blobs (um armazena o outro)
+
+// Blob:
+- Armazena metadados de um único arquivo.
+
+// Tree:
+- Guarda o nome do arquivo e têm referências de outros blobs ou subtrees.
+
+// Commit:
+- Contém referência a outra tree ou alguma outra informação como autor, mensagem, árvore, parente etc.
+
+PS: Caso você altere uma vírgula de um arquivo, o SHA1 (criptografia) do arquivo vai mudar os 40 dígitos, e consequentemente vai mudar o SHA1 das trees e do commit.
+-------------------------------
+// Sistema distribuído
+-------------------------------
+// Segurança
+-------------------------------

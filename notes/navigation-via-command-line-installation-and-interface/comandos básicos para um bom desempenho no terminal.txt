@@ -1,0 +1,40 @@
+-------------------------------
+        -- Glossário:
+// Perguntas, Tópicos etc.
+- Respostas
+=> Exemplos
+| Listas, dicas
+-------------------------------
+// GUI x CLI
+
+// GUI
+- Graphical User Interface
+
+// CLI
+- Command Line Interface
+-------------------------------
+// O que vamos aprender?
+
+| Mudar de pastas
+| Listar as pastas
+| Criar pastas/arquivos
+| Deletar pastas/arquivos
+-------------------------------
+// Windows (Terminal derivado do Shell)
+- cd
+- dir: Mostra todas as pastas do Usuário.
+- mkdir
+- del (delete) / rmdir (remove directory): Del deleta arquivos e Rmdir deleta pastas.
+
+- Para voltar uma pasta: cd ..
+
+- Para limpar o terminal: cls (clear screen)
+-------------------------------
+// Unix (Linux/Apple) - (Terminal derivado do Bash)
+- cd: Change Direction. (cd /)
+- ls (listar)
+- mkdir
+- rm -rf
+
+- Para limpar o terminal: clear
+-------------------------------

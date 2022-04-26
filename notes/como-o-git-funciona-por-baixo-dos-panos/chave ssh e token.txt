@@ -1,0 +1,29 @@
+-------------------------------
+        -- Glossário:
+// Perguntas, Tópicos etc.
+- Respostas
+=> Exemplos
+| Listas, dicas
+-------------------------------
+// SSH key
+
+- It's a way to stablish a secure and encrypted connection between two computers.
+-------------------------------
+// How to get a SSH key
+
+1- ssh-keygen -t ed25519 -C gui@gmail.com
+2- cd (directory here)
+3- cat id_ed25519.pub
+4- Copy the key
+5- In Github settings, click on SSH keys / Add new
+6- Choose a title and paste the key
+7- Add the agent at Git
+8- eval $(ssh-agent -s)
+9- ssh-add id_ed25519
+-------------------------------
+// Deleting a folder
+
+rm -r folder's_name_here
+
+=> rm -r testes
+-------------------------------

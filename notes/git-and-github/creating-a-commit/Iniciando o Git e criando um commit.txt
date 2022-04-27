@@ -1,0 +1,43 @@
+-------------------------------
+        -- Glossário:
+// Perguntas, Tópicos etc.
+- Respostas
+=> Exemplos
+| Listas, dicas
+-------------------------------
+// Basic Commands
+
+git init - Iniciar repositório no Git
+git add - Mover arquivos
+git commit - Criar commit
+
+PS: Quando estamos lidando com um terminal, o nome do programa vai na frente para chamar o terminal.
+-------------------------------
+// Creating a repository
+
+- Open the folder you wanna use as a repository
+- Use the command below inside your folder directory:
+git init
+- As you have opened your folder, use the commands:
+git config --global user.email "mail@gmail.com"
+git config --global user.name guilhermescr
+-------------------------------
+// Adding a file
+
+// Markdown
+- It's a way to write similar to HTML. It's fast and easy to take notes.
+-------------------------------
+// Commiting a folder/file
+
+> git add nomeArquivo
+> git add * (asterisco = global => pega todos os arquivos)
+> git add .
+
+Esse comando coloca os arquivos na parte de trás que leva ao palco. A staging area.
+
+Depois:
+
+> git commit -m "msg..."
+
+Esse comando pega todos os arquivos da staging area e envelopa-os em uma mensagem, dando significância a eles, e após isso cria um objeto no Git chamado commit.
+-------------------------------

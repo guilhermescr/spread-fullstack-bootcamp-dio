@@ -1,0 +1,37 @@
+// Termos Comuns
+
+404 - Erro que aparece ao não conseguir carregar um site.
+
+Algoritmo - Sequência de passos finitos e organizados que solucionam um problema.
+
+ALT - Texto alternativo.
+
+API - Peça de lego, funcionalidade a mais pra executar outras funções em um site.
+
+Aplicação - Software, programa, aplicativo.
+
+Back-end - Parte de trás.
+
+Biblioteca/dll - Conjunto de ferramentas que disponibilizam alguns recursos, acesso a banco de dados etc.
+
+Bootstrap - Framework de HTML, CSS e JS.
+
+Breakpoints - Pontos chave quando montamos uma tela pra diversos dispositivos / Pontos de parada em um debug.
+
+Código - Instruções feitas em uma linguagem para que um aplicativo/site seja executado, compilado...
+
+Controle de versão - Guarda fotos de cada momento do seu código.
+
+Cookies - Rastros deixados por um site.
+
+Debug - Tentar descobrir o que está causando um problema no seu código / Passar o código a limpo para ver se está tudo certo.
+
+Deploy - Pacotes de um programa que servem para ser publicados (tipo um commit).
+
+Design adaptativo/responsivo - Programa/site que se adapta aos diferentes tipos e tamanhos de tela.
+
+DNS - Domain Name System, tradutor de domínio para IP e IP para domínio.
+
+Método ágil - Scrum, XP: Técnicas de desenvolvimento de software que visam um desenvolvimento melhor e mais rápido do sistema.
+
+MVC - Model View Controller: Arquitetura de software que separa o model (estrutura de dados), o view (parte da frente - front-end), o controller (quem faz a parte da lógica de programação).

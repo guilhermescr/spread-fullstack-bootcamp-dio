@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guilherme Rocha</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: #ccc;
+        }
+
+        #title, .subtitle, .post_title {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        #title {
+            text-align: center;
+            text-decoration: underline;
+        }
+
+        .post_title {
+            font-size: 1em;
+            font-style: italic;
+            text-indent: 10px;
+        }
+
+        #gui_rosto {
+            background-image: linear-gradient(90deg, #a52ef5, #bf2a1a, #f2a11a, #af2aaf 95%);
+            border-radius: 50%;
+            padding: 5px;
+            width: 30%;
+            display: block;
+            margin: auto;
+            transition: ease-in-out 0.3s;
+        }
+
+        #gui_rosto:hover {
+            padding: 15px;
+        }
+
+        #festa {
+            border-radius: 20% 20% 25% 25%;
+            width: 55%;
+            display: block;
+            margin: auto;
+            border: 3px solid red;
+            transition: .3s ease-in-out;
+        }
+
+        #festa:hover {
+            border: 5px solid orangered;
+            width: 60%;
+            border-radius: 5%;
+        }
+
+        .post {
+            background-color: white;
+            padding: 10px;
+            border: 2px solid black;
+        }
+
+        ol {
+            list-style-type: "*  ";
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img id="gui_rosto" src="guilherme.jpg" alt="Rosto de Guilherme Rocha">
+        <h1 id="title">Guilherme Rocha</h1>
+    </header>
+    <section>
+        <header>
+            <h2 class="subtitle">Posts</h2>
+        </header>
+        <article class="post">
+            <header>
+                <h3 class="post_title">Post #1</h3>
+                <img id="festa" src="festa-de-aniversário-de-David.jpg" alt="Guilherme e seus amigos em festa de aniversário">
+            </header>
+            <p>Lorem ipsum dolor, <a href="https://github.com/guilhermescr/" target="_blank">sit amet consectetur</a> adipisicing elit. <a href="mailto:guiscr2005@gmail.com" target="_blank">Nobis voluptatem</a> aliquam assumenda ipsum a distinctio harum ipsa! Alias nihil aut perferendis illo tempora aliquam, reiciendis neque laudantium soluta, nobis facere!</p>
+        </article>
+    </section>
+    <footer>
+        <ol>
+            <li><a href="mailto:guiscr2005@gmail.com">guiscr2005@gmail.com - E-mail</a></li>
+            <li><a href="https://github.com/guilhermescr" target="_blank">Guilhermescr - GitHub</a></li>
+            <li><a href="https://www.instagram.com/guiidev_" target="_blank">guiidev_ - Instagram</a></li>
+        </ol>
+    </footer>
+</body>
+</html>

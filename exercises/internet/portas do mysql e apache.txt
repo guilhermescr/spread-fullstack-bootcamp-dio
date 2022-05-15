@@ -1,0 +1,2 @@
+Apache: 443
+MySQL: 3306

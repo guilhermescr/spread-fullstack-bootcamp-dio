@@ -1,0 +1,9 @@
+| JavaScript |
+
+Linguagem interpretada
+Baseada em protótipos
+Multiparadigma
+Comumente utilizada em aplicações web client-side
+Segue o padrão ECMAScript.
+
+Criado em 1995 mas só seguiu o padrão ECMAScript a partir de 1997.

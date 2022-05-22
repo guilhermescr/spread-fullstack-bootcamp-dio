@@ -1,9 +1,14 @@
-let min = document.getElementById("n1");
-let max = document.getElementById("n2");
-let result = document.getElementById("randomN");
-let btn = document.getElementById("generateBtn");
+function getNumber() {
+  const min = 
+  document.getElementById("num1").value;
+  const max = 
+  document.getElementById("num2").value;
 
-function getRandomNum(min, max) {
-  var generatedNumber = Math.floor(Math.random() * max) + min;
-  result.innerHTML = Math.floor(generatedNumber);
+  let luck = Math.floor(Math.random() * Math.floor(max));
+
+  while (luck < min) {
+    luck = Math.floor(Math.random() * Math.floor(max));
+  }
+
+  document.getElementById("randomN").innerHTML = luck;
 }

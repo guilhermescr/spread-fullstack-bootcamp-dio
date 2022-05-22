@@ -46,6 +46,9 @@
       }
 
       #generateBtn {
+        border-top: 1px solid black;
+        border-inline: none;
+        border-bottom: none;
         background-color: springgreen;
         color: white;
         font-size: 2rem;
@@ -68,7 +71,7 @@
         margin-top: 10px;
       }
 
-      #n1, #n2 {
+      #num1, #num2 {
         max-width: 100px;
         height: 30px;
         text-align: center;
@@ -78,7 +81,7 @@
     </style>
   </head>
   <body>
-    <h1>Números aleatórios</h1>
+    <h1>Sorteador Maluco</h1>
     <div id="randomBox">
       <form>
         <label for="number" id="subtitle"
@@ -86,14 +89,14 @@
         >
         <div class="inputs">
           <label for="number">Min</label>
-          <input type="number" name="number" id="n1" min="1" placeholder="N1" />
+          <input type="number" name="number" id="num1" min="1" placeholder="N1" />
 
           <label for="number">Max</label>
-          <input type="number" name="number" id="n2" min="1" placeholder="N2" />
+          <input type="number" name="number" id="num2" min="1" placeholder="N2" />
         </div>
       </form>
       <p id="randomN"></p>
-      <button id="generateBtn" onclick="getRandomNum()">Gerar</button>
+      <button id="generateBtn" onclick="getNumber()">Gerar</button>
     </div>
 
     <script src="randomNumbers.js"></script>

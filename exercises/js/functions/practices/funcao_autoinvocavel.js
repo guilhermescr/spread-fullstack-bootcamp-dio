@@ -12,8 +12,8 @@
 // Com parâmetro.
 let dobro = 98;
 
-(function () {
-  return console.log(dobro * 2); // 196
+(function (d) {
+  return console.log(d * 2); // 196
 })(dobro);
 
 // Modelo de código da aula de "Função autoinvocável e Callbacks".

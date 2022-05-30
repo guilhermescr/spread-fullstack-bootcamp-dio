@@ -28,3 +28,18 @@ function average(a, b, c, media) {
 }
 const resultAverage = calc(8.9, 9.9, 7.2, 5.4);
 console.log(resultAverage);
+
+/* More callback examples */
+
+const msg = function(type, texto) {
+  return type(texto);
+}
+
+const intro = function(texto) {
+  texto = "Hello! I'm Guilherme!";
+  return texto;
+}
+
+const result = msg(intro, text);
+
+console.log(result);

@@ -1,0 +1,13 @@
+// Length
+var.length returns the length of a string:
+let txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+let length = txt.length;
+
+// Extracting String Parts
+ - slice(start, end); extracts a part of a string and returns the extracted part in a new string:
+ 
+  let str = "Apple, Banana, Kiwi";
+  let part = str.slice(7, 13);
+
+ - substring(start, end);
+ - substr(start, length);

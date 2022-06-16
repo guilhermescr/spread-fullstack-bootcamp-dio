@@ -1,0 +1,1 @@
+OBS: Fiz esse curso de TypeScript do Matheus Battisti para aprofundar um pouco mais em TypeScript, pois não consegui aprender muito com os conteúdos na DIO.

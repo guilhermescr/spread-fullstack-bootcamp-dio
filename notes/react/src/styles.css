@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Tahoma, Arial, sans-serif;
+  text-align: center;
+  color: #5b8b8b;
+}
+
+body {
+  font-size: 22px;
+}
+
+button {
+  padding: 3px 10px;
+  cursor: pointer;
+}
